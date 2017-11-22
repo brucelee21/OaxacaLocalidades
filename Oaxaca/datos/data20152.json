@@ -1,0 +1,45 @@
+[{  "comment": "El Espinal",
+    "country": "Población de 15 años y más analfabeta",
+    "visits": 7.09,
+    "go": 13.53
+}, {
+    "country": "Población de 6 a 14 años que no asiste a la escuela",
+    "visits": 1.17,
+    "go": 3.73
+}, {
+    "country": "Población de 15 años y más con educación básica incompleta",
+    "visits": 31.26,
+    "go": 51.38
+}, {
+    "country": "Población sin derechohabiencia a servicios de salud",
+    "visits": 14.75,
+    "go": 17.18
+}, {
+    "country": "Viviendas con piso de tierra",
+    "visits": 0.85,
+    "go": 13.05
+}, {
+    "country": "Viviendas que no disponen de excusado o sanitario",
+    "visits": 0.85,
+    "go": 3.40
+}, {
+    "country": "Viviendas que no disponen de agua entubada de la red pública",
+    "visits": 2.86,
+    "go": 12.82
+}, {
+    "country": "Viviendas que no disponen de drenaje",
+    "visits": 1.14,
+    "go": 23.90
+}, {
+    "country": "Viviendas que no disponen de energía eléctrica",
+    "visits": 1.18,
+    "go": 3.16
+}, {
+    "country": "Viviendas que no disponen de lavadora",
+    "visits": 1.18,
+    "go": 58.60
+}, {
+    "country": "Viviendas que no disponen de refrigerador",
+    "visits": 1.18,
+    "go": 34.96
+}]

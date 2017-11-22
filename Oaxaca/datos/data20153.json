@@ -1,0 +1,45 @@
+[{  "comment": "Santiago Nundiche",
+    "country": "Población de 15 años y más analfabeta",
+    "visits": 19.88,
+    "go": 13.53
+}, {
+    "country": "Población de 6 a 14 años que no asiste a la escuela",
+    "visits": 4.20,
+    "go": 3.73
+}, {
+    "country": "Población de 15 años y más con educación básica incompleta",
+    "visits": 63.48,
+    "go": 51.38
+}, {
+    "country": "Población sin derechohabiencia a servicios de salud",
+    "visits": 2.96,
+    "go": 17.18
+}, {
+    "country": "Viviendas con piso de tierra",
+    "visits": 16.61,
+    "go": 13.05
+}, {
+    "country": "Viviendas que no disponen de excusado o sanitario",
+    "visits": 1.44,
+    "go": 3.40
+}, {
+    "country": "Viviendas que no disponen de agua entubada de la red pública",
+    "visits": 14.80,
+    "go": 12.82
+}, {
+    "country": "Viviendas que no disponen de drenaje",
+    "visits": 14.80,
+    "go": 23.90
+}, {
+    "country": "Viviendas que no disponen de energía eléctrica",
+    "visits": 7.22,
+    "go": 3.16
+}, {
+    "country": "Viviendas que no disponen de lavadora",
+    "visits": 90.25,
+    "go": 58.60
+}, {
+    "country": "Viviendas que no disponen de refrigerador",
+    "visits": 90.25,
+    "go": 34.96
+}]

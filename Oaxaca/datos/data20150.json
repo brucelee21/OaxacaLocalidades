@@ -1,0 +1,45 @@
+[{  "comment": "San Pedro Mártir Yucuxaco",
+    "country": "Población de 15 años y más analfabeta",
+    "visits": 8.51,
+    "go": 13.53
+}, {
+    "country": "Población de 6 a 14 años que no asiste a la escuela",
+    "visits": 4.23,
+    "go": 3.73
+}, {
+    "country": "Población de 15 años y más con educación básica incompleta",
+    "visits": 63.91,
+    "go": 51.38
+}, {
+    "country": "Población sin derechohabiencia a servicios de salud",
+    "visits": 22.60,
+    "go": 17.18
+}, {
+    "country": "Viviendas con piso de tierra",
+    "visits": 14.00,
+    "go": 13.05
+}, {
+    "country": "Viviendas que no disponen de excusado o sanitario",
+    "visits": 2.2,
+    "go": 3.40
+}, {
+    "country": "Viviendas que no disponen de agua entubada de la red pública",
+    "visits": 19.90,
+    "go": 12.82
+}, {
+    "country": "Viviendas que no disponen de drenaje",
+    "visits": 62.16,
+    "go": 23.90
+}, {
+    "country": "Viviendas que no disponen de energía eléctrica",
+    "visits": 5.90,
+    "go": 3.16
+}, {
+    "country": "Viviendas que no disponen de lavadora",
+    "visits": 68.55,
+    "go": 58.60
+}, {
+    "country": "Viviendas que no disponen de refrigerador",
+    "visits": 61.43,
+    "go": 34.96
+}] 
